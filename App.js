@@ -19,7 +19,7 @@ const infoList = [
   },
   {
     title: 'Cassio Roberto Ramos',
-    description: 'Possição: Goleiro, Idade: 37 anos, Nacionalidade: Brasileiro, Peso: 92KG, Altura: 1,96 m.',
+    description: 'Posição: Goleiro, Idade: 37 anos, Nacionalidade: Brasileiro, Peso: 92KG, Altura: 1,96 m.',
     image: { uri: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhOzH9qe-d0WRCY3A8wnK8McvEQqBhGMBc8g&s' },
   },
   {
